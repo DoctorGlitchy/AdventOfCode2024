@@ -1,3 +1,11 @@
-Day 1: https://youtu.be/vKc1fy0MlHM
-Day 2: https://youtu.be/2zGfPBHKAUc
-Day 3: https://youtu.be/myJayiQyfkc
+Day 1:  https://youtu.be/vKc1fy0MlHM
+        https://adventofcode.com/2024/day/1
+
+Day 2:  https://youtu.be/2zGfPBHKAUc
+        https://adventofcode.com/2024/day/2
+
+Day 3:  https://youtu.be/myJayiQyfkc
+        https://adventofcode.com/2024/day/3
+
+Day 4:  https://youtu.be/kOenVlPCsU0
+        https://adventofcode.com/2024/day/4
