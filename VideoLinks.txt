@@ -17,3 +17,11 @@ Day 6:
         https://adventofcode.com/2024/day/6
         https://www.reddit.com/r/adventofcode/comments/1h7tovg/comment/m0ppupf/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
         C:\Users\ushir\Documents\GitHub\AdventOfCode2024\Day6\Puzzle2\part2.py
+
+Day 7:  
+        https://adventofcode.com/2024/day/7
+        
+Day 8:  
+        https://adventofcode.com/2024/day/7
+        https://github.com/liamasman/advent-of-code-2024/blob/main/src/day_eight.py
+
